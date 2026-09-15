@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/1e1e2e/a6accd?text=StaffPurse" alt="StaffPurse Banner" width="100%" />
+  <img src="https://placehold.co/800x200/1e1e2e/a6accd.svg?text=StaffPurse" alt="StaffPurse Banner" width="100%" />
 
   <h1>StaffPurse</h1>
   <p><strong>Secure spend control and virtual card issuance for Nigeria's micro-businesses.</strong></p>
