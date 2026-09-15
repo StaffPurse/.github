@@ -5,7 +5,8 @@
   <p><strong>Secure spend control and virtual card issuance for Nigeria's micro-businesses.</strong></p>
 
   <p>
-    <a href="https://staffpurse.gitbook.io"><strong>Documentation</strong></a> ·
+    <a href="https://staffpurse.github.io/staffpurse-web"><strong>Live Dashboard</strong></a> ·
+    <a href="https://staffpurse.github.io/staffpurse-web/docs"><strong>Documentation</strong></a> ·
     <a href="https://t.me/+Gflo5jZStw1jMjE0"><strong>Community Telegram</strong></a>
   </p>
 </div>
